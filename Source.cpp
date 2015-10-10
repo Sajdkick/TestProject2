@@ -1,4 +1,13 @@
+int test()
+{
+	
+	return 5;
+	
+}
+
 int main()
 {
-	int a = 4;
+	int a = test;
 }
+
+
